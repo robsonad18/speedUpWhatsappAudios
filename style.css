@@ -1,0 +1,7 @@
+.twoTimesButton{
+  font-size: 1rem;
+  font-weight: bolder;
+  cursor: pointer;
+  border: none;
+  color: pink;
+}
